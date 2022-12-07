@@ -7,6 +7,7 @@ public class TestTracker{
             trackList.put("Rudolph the Red-Nosed Reindeer","had a shiny nose");  
             trackList.put("I'll be Home for Christmas","you can count on me."); 
 
+            System.out.println(trackList);
             System.out.println(trackList.get("Oh Holy Night")) ;
     }
 }
